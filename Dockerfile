@@ -1,7 +1,7 @@
 FROM alpine:edge
 
 ARG AUUID="6ee040eb-e7f6-4d26-94ed-371f1644b6da"
-ARG CADDYIndexPage="https://github.com/ripienaar/free-for-dev/archive/master.zip"
+ARG CADDYIndexPage="https://github.com/wulabing/3DCEList/archive/master.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
 
